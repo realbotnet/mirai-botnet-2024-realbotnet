@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="realbotnet.png"  />
+  <img   src="realbotnet.png"  />
 </div>
 
 ###
