@@ -1,5 +1,4 @@
 <h1 align="left">Hey 👋 Welcome to Real Botnet - Informations</h1>
-
 ###
 <p align="left">Discover our official channel for real botnet and Nextgen Layer 4 & Layer 7 C2 Botnet method, Mirai, API stresser testing, DDoS, and bypass techniques. Join us now!  Contact: @bl4ckhatx  
 </p>  
